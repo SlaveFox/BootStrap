@@ -1,0 +1,37 @@
+
+body{
+    font: 20px arial, sans-serif;
+}
+
+.container-fluid {
+    background-color: aqua;
+    margin-top: 0px;
+}
+
+.github{
+    background-color: #171515;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.text-center{
+    color: white;
+}
+
+.githublink{
+    color: white;
+}
+
+.navbar{
+    padding: 0px;
+}
+.linkedin{
+    background-color: #0e76a8;
+}
+
+.Facebook{
+    background-color: #3b5998;
+}
